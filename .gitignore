@@ -1,1 +1,6 @@
 .env
+.ipynb_checkpoints/.env-checkpoint
+.ipynb_checkpoints/.gitignore-checkpoint
+.ipynb_checkpoints/.ipynb_checkpoints/.env-checkpoint-checkpoint
+.ipynb_checkpoints/train-yolov8-checkpoint.ipynb
+yolov8x.pt
